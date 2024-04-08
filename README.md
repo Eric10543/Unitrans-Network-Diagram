@@ -15,5 +15,6 @@ Why did I make this? Long story. I like to collect (read: spend irresponsible am
 I intend to keep iterating and improving the diagram, such as adding landmarks and symbols (railroads, schools, parks, etc.) as time goes on. This will include updating the diagram with all network changes for each service period. So please, any feedback (especially criticism) would be immensely appreciated. 
 
 With love,
+
 A tired Unitrans driver who should be studying
 
