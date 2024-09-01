@@ -1,4 +1,4 @@
-# Unitrans Network Diagram by Eric10543, a tired Unitrans driver
+# A Reimagined Unitrans Network Diagram
 
 *DISCLAIMER: I am not a professional graphic designer, nor am I on the marketing/operations teams at Unitrans. This was a purely PERSONAL project of mine that I intend to use to decorate my room. If you get lost trying to follow my diagram, neither I nor Unitrans is liable or responsible (though please let me know so I can improve the diagram). No outside logos/art/content was used in the creation of this diagram other than my own and the Unitrans logo. The font used is Proxima Nova Condensed (official UC Davis font), and it was purchased and used for this project through a legitimate Adobe Creative Cloud subscription.*
 
